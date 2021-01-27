@@ -1,0 +1,92 @@
+	body {background-image: url("images/Background.jpg");
+		background-size: cover;
+		background-repeat:no-repeat;
+		color: white;
+	  	text-align: left; 
+	  	font-family: "Century gothic"; 
+	  	font-weight: lighter;
+	  }
+	img { 
+		border: 1px solid blue;
+		border-radius: 100px;
+		float: left;
+	}
+	.image1{
+		border: 1px solid blue;
+		border-radius: 100px;
+		float: right;
+	}
+	.colorC{
+		color: white;
+		font-weight: bold;
+	}
+		.button {
+	    position: relative;
+    	background-color: white;
+    	border: none;
+    	color: white;
+    	padding: 16px 32px;
+    	text-align: center;
+    	text-decoration: none;
+    	display: inline-block;
+    	font-size: 16px;
+    	font-family: "Century gothic";
+    	margin: 4px 2px;
+    	transition-duration: 0.5s;
+    	overflow: hidden;
+    	cursor: pointer;
+    }
+    		.index{
+    			background-color: white;
+    			color: black;
+    			border: 2px solid #555555;
+    			border-radius: 12px;
+    		}
+    		.index:hover{
+    			background-color: #555555;
+    			color: white;
+    		}
+    		.Objective{
+    			background-color: white;
+    			color: black;
+    			border: 2px solid #555555;
+    			border-radius: 12px;
+    		}
+    		.Objective:hover{
+    			background-color: #555555;
+    			color: white;
+    		}
+    		.Technical{
+    			background-color: white;
+    			color: black;
+    			border: 2px solid #555555;
+    			border-radius: 12px;
+    		}
+    		.Technical:hover{
+    			background-color: #555555;
+    			color: white;
+    		}
+    		.Personal{
+    			background-color: white;
+    			color: black;
+    			border: 2px solid #555555;
+    			border-radius: 12px;
+    		}
+    		.Personal:hover{
+    			background-color: #555555;
+    			color: white;
+    		}
+    		.Education{
+    			background-color: white;
+    			color: black;
+    			border: 2px solid #555555;
+    			border-radius: 12px;
+    		}
+    		.Education:hover{
+    			background-color: #555555;
+    			color: white;
+    		}
+    	h3 {
+    	border-style: ridge;
+    	text-align: center;
+    	}
